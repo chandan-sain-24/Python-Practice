@@ -1,13 +1,25 @@
-# Python Practice
+# Python Practice 🚀
 
-This repository contains my Python practice programs.
+This repository contains my Python learning and daily practice programs.
 
-Topics covered:
-- Variables
-- Loops
+I am currently pursuing **BS in Data Science from IIT Madras** and using this repository
+to improve my programming and problem-solving skills.
+
+## 📘 Topics Covered
+- Variables and Data Types
+- Loops (for, while)
+- Conditional Statements
 - Functions
-- Lists & Dictionaries
-- Basic problem solving
+- Lists, Tuples, Dictionaries
+- Basic problem solving programs
 
-Learning as part of BS in Data Science (IIT Madras).
+## 🎯 Goal
+To build strong fundamentals in Python and gradually move towards
+Data Science, Automation, and Real-world projects.
 
+## 👨‍🎓 About Me
+- Student of BS in Data Science (IIT Madras)
+- Learning Python step by step
+- Interested in Data Science & Technology
+
+⭐ This repository will be updated regularly.
